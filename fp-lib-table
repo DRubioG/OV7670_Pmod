@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Pmod")(type "KiCad")(uri "${KIPRJMOD}/Pmod.pretty")(options "")(descr ""))
+  (lib (name "OV7670_camera")(type "KiCad")(uri "${KIPRJMOD}/OV7670_camera.pretty")(options "")(descr ""))
+)
