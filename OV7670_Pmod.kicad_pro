@@ -449,7 +449,16 @@
     "meta": {
       "version": 3
     },
-    "net_colors": null,
+    "net_colors": {
+      "/D0": "rgb(0, 255, 0)",
+      "/D1": "rgb(0, 255, 0)",
+      "/D2": "rgb(0, 255, 0)",
+      "/D3": "rgb(0, 255, 0)",
+      "/D4": "rgb(0, 255, 0)",
+      "/D5": "rgb(0, 255, 0)",
+      "/D6": "rgb(0, 255, 0)",
+      "/D7": "rgb(0, 255, 0)"
+    },
     "netclass_assignments": null,
     "netclass_patterns": [
       {
